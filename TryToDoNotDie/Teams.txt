@@ -1,0 +1,809 @@
+Arsenal
+UK
+10000
+Leno Bernard A
+25 
+190
+10
+GK
+100
+David Luiz A
+29
+185
+7
+CB
+30
+Papastopolous Sokratis A
+28
+187
+10
+CB
+45
+Bakayo Saka A
+18
+179
+5
+LB
+90
+Bellerin Hector A
+24
+175
+13
+RB
+80
+Toreira Lucas A
+26
+179
+12
+CDM
+120
+Xhaka Granit A
+29
+187
+15
+CM
+100
+Guendouzi Matheo A
+20
+185
+10
+CM
+150
+Pepe Nicolas A
+23
+183
+14
+RW
+180
+Aubemeyeang Pierre A
+29
+190
+19
+LW
+250
+Lacazette Alexander A
+30
+185
+15
+ST
+180
+Martineli Gabriel A
+17
+187
+6
+ST
+50
+Mikel Arteta A
+35
+185
+7
+4
+
+Liverpool
+UK
+100000
+Alisson Becker A
+23 
+193
+15
+GK
+150
+Virgil Van Dijk 
+27
+190
+15
+CB
+180
+Dejan Lovren A
+33
+185
+10
+CB
+45
+Robertson Andrew A
+24
+179
+20
+LB
+130
+Trent Alexander-Arnold A
+20
+185
+13
+RB
+80
+Fabinho Oleira A
+26
+187
+12
+CDM
+120
+Henderson Jordan A
+29
+187
+15
+CM
+70
+Wijnaldum Georginio Gregion 
+24
+175
+10
+CM
+50
+Salah Mohammad A
+27
+175
+25
+RW
+220
+Mane Sadio A
+28
+175
+25
+LW
+250
+Firmino Roberto A
+30
+185
+15
+ST
+180
+Keita Nabi A
+25
+187
+15
+CM
+60
+Klopp Jurgen A
+45
+185
+15
+15
+
+Chelsea
+UK
+10000
+Kepa Arizabalaga A
+20 
+195
+10
+GK
+65
+Zouma Court A
+22
+190
+5
+CB
+30
+Rudiger Antonio A
+25
+189
+10
+CB
+45
+Azpilicueta Cezar A
+29
+185
+20
+LB
+50
+Alonso Marcos A
+30
+185
+13
+RB
+35
+Kante Ngolo A
+26
+175
+22
+CDM
+140
+Kovacic Matheo A
+22
+187
+15
+CM
+90
+Loftus_Cheek Ruben A
+24
+175
+10
+CM
+50
+Pulisic Christian A
+21
+175
+17
+RW
+100
+Mount Mason A
+21
+175
+8
+LW
+80
+Abraham Tammy A
+30
+185
+10
+ST
+80
+Jorginho A A
+25
+187
+15
+CM
+65
+Lampard Steven A
+37
+185
+7
+34
+
+Manchester_City
+UK
+18000
+Ederson Moraes A
+23
+194
+10
+GK
+70
+Laporte Emerick A
+25
+187
+13
+CB
+70
+Stones John A
+26
+189
+16
+CB
+65
+Walker Kyle A
+28
+193
+15
+RB
+55
+Zinchenko Olexandr A
+24
+178
+8
+LB
+45
+Fernandinho A A
+30 
+185
+12
+CDM
+100
+Rodri Hernadez Cascante
+24
+187
+18
+CDM
+90
+De Bruyne Kevin
+27
+189
+25
+CAM
+160
+Foden Phil A
+18
+187
+4
+CM
+15
+Sane Leroy A
+24
+186
+20
+LW
+110
+Bernardo Silva A
+24
+175
+25
+RW
+140
+Kun Aguero Sergio
+30
+178
+35
+ST
+100
+Guardiola Pep A
+45
+180
+25
+16
+
+Manchester_United
+UK
+15900
+De Gea David
+28
+194
+15
+GK
+100
+Maguire Steve A
+24
+197
+18
+CB
+85
+Bailey Eric A
+27
+189
+16
+CB
+45
+Wan Bisaaka Chris
+23
+173
+15
+RB
+85
+Shaw Luke A
+26
+178
+8
+LB
+25
+Pogba Paul A
+27 
+185
+35
+CDM
+140
+Fernandes Bruno A
+25
+187
+18
+CM
+110
+Fred A A
+25
+184
+22
+CAM
+85
+James Daniel A
+18
+187
+5
+CM
+80
+Martial Anthony A
+26
+186
+20
+LW
+110
+Chong Taheet A
+18
+175
+6
+RW
+15
+Rashford Marcus A
+21
+185
+20
+ST
+130
+Solskjaer Ole Gunna
+45
+167
+10
+3
+
+Leicester
+UK
+9000
+Schmeichel Kasper A
+25 
+190
+10
+GK
+100
+Morgan Wes A
+25
+185
+7
+CB
+30
+Szeyundzhi Chaglar A
+23
+187
+5
+CB
+35
+Chilwell Phil A
+22
+179
+15
+LB
+90
+Pereira Ricardo A
+24
+175
+13
+RB
+80
+Chaudri Hamsa A
+23
+179
+7
+CDM
+35
+Barnes Harvey A
+23
+187
+10
+CM
+60
+Madison James A
+23
+185
+17
+CM
+110
+Iheenacho A A
+23
+183
+14
+RW
+80
+Perez Ayoze A
+24
+180
+15
+LW
+100
+Vardy James A
+30
+185
+15
+ST
+180
+Tielemans Yuri A
+21
+187
+19
+ST
+100
+Rodgers Brendan A
+43
+185
+8
+10
+
+Wolves
+UK
+7000
+Rui Patriciu A
+25 
+190
+10
+GK
+50
+Bolie Willie A
+25
+185
+7
+CB
+40
+Connor Codie A
+23
+187
+5
+CB
+35
+Ruben Vinigret A
+24
+179
+5
+LB
+35
+Math Doherty A
+27
+175
+10
+RB
+80
+Dendnocker Leander A
+23
+179
+10
+CDM
+80
+Neves Ruben A
+25
+182
+10
+CM
+65
+Moutinho Jaoa A
+25
+165
+10
+CM
+65
+Himinez Raul A
+23
+183
+17
+RW
+90
+Traore Adama A
+24
+175
+20
+LW
+170
+Jota Diogu A
+25
+185
+15
+ST
+100
+Podence Daniel A
+25
+182
+15
+ST
+70
+Santu Espiritu Nunu
+43
+185
+10
+13
+
+Sheffield_United
+UK
+6000
+Henderson Dick A
+22
+199
+5
+GK
+10
+Basham Chris A
+30
+190
+5
+CB
+10
+O'Conell Jack A
+28
+190
+5
+CB
+10
+Baldock Jorge A
+27
+187
+5
+LB
+10
+Eagan John A
+26
+185
+5
+RB
+10
+Norwood Oliver A
+27
+184
+5
+CDM
+15
+Landstrem John A
+26
+180
+9
+CM
+20
+Fleck John A
+29 
+190
+10
+CM
+19
+McBarnie Oliver A
+28
+187
+13
+LW
+25
+Musse Lis A
+25
+185
+18
+RW
+70
+McGoldrick David A
+28 
+183
+20
+ST
+100
+Caluum Robinson A
+30
+185
+20
+ST
+90
+Wyldler Chris A
+55
+190
+10
+25
+
+Spurs
+UK
+10000
+Lloris Hugo A
+30
+190
+20
+GK
+80
+Rose Andry A
+24
+185
+24
+LB
+45
+Aurier Serge A
+26
+183
+22
+RB
+50
+Vetronghen Jan A
+29
+190
+20
+CB
+60
+Alderweireld Tobe A
+30
+195
+25
+CB
+80
+Lo Celso Jovanni
+23
+178
+15
+CM
+30
+Dier Eric A
+25
+185
+10
+CDM
+30
+Alli Delli A
+23
+180
+20
+CAM
+80
+Son Hyin Min
+25
+187
+25
+CF
+130
+Lucas Moura A 
+24
+175
+19
+CF
+75
+Kane Harry A
+27
+190
+30
+ST
+230
+Ndombele Tongi A
+29
+187
+23
+CM
+100
+Mourinho Jose A
+55
+180
+30
+27
+
+Everton
+UK
+10000
+Pickford John A
+23 
+190
+10
+GK
+80
+Mina Erri A
+23
+190
+10
+CB
+40
+Keane Michael A
+28
+187
+10
+CB
+25
+Digne Luke A
+24
+179
+14
+LB
+90
+Baines Layton A
+29
+185
+15
+RB
+50
+Schneiderlen Morhan A
+26
+179
+12
+CDM
+50
+Delph Fabian A
+29
+187
+15
+CM
+50
+Sigurdson Gulfi A
+20
+185
+30
+CM
+120
+Kalvert_Lewin Dominick A
+23
+183
+14
+RW
+150
+Bernard A A
+27
+175
+19
+LW
+120
+Richarlison A A
+26
+185
+15
+ST
+180
+Coleman Shamus A
+23
+187
+12
+RB
+50
+Ancheloti Marco A
+70
+185
+14
+30

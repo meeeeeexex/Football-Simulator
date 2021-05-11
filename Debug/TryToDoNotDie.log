@@ -1,0 +1,9 @@
+﻿  TryToDoNotDie.cpp
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\GLTransfer.h(19,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\Team.h(16,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\Team.h(27,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\Team.h(79,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\Team.h(91,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\Team.h(110,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\Team.h(153,21): warning C4018: <: несоответствие типов со знаком и без знака
+  TryToDoNotDie.vcxproj -> C:\Users\Vlad\source\repos\TryToDoNotDie\Debug\TryToDoNotDie.exe

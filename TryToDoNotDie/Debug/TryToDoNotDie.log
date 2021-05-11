@@ -1,0 +1,17 @@
+﻿  a.cpp
+  Player.cpp
+  TryToDoNotDie.cpp
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\GLTransfer.h(21,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\TTeam.h(13,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\TTeam.h(40,13): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\TTeam.h(129,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\TTeam.h(148,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\TTeam.h(192,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\TTeam.h(240,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\League.h(12,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\League.h(188,20): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\TryToDoNotDie.cpp(128,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\TryToDoNotDie.cpp(214,21): warning C4018: <: несоответствие типов со знаком и без знака
+  Создание кода...
+C:\Users\Vlad\source\repos\TryToDoNotDie\TryToDoNotDie\TTeam.h(61): warning C4715: Team::GetPriceByName: значение возвращается не при всех путях выполнения
+  TryToDoNotDie.vcxproj -> C:\Users\Vlad\source\repos\TryToDoNotDie\Debug\TryToDoNotDie.exe
